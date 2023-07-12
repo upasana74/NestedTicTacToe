@@ -1,0 +1,19 @@
+Tests:
+
+Positive Test Cases
+1. Player can choose any board any position as long as it is empty during their turn, players can play separate instances.
+2. If one of the board is draw, then repeat the game 
+3. Manual input working.
+4. Random computer input working.
+5. If one of the board is draw, then that instance is reset.
+6. Meta game can be draw.
+7. If one of the player got the 3 consec boards, it wins the meta game.
+
+Negative Test Cases
+1. Trying to access already filled position/board not allowed.
+2. Board no. and position no. only take int 1-9 (no out of range, str allowed)
+3. Option to play by human or computer 'y', 'n' only takes valid input
+
+
+
+
