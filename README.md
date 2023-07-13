@@ -19,5 +19,4 @@ This is the layout of each individual board, choose the positions(1-9) you want 
 
 ## Meta game layout
 
-<img width="356" alt="Screen Shot 2023-07-12 at 16 00 11" src="https://github.com/upasana74/NestedTicTacToe/assets/47816217/f4dd183c-3847-4a51-98c3-e795414e12a2">
-
+<img width="349" alt="Screen Shot 2023-07-13 at 00 04 22" src="https://github.com/upasana74/NestedTicTacToe/assets/47816217/892d471b-167f-4c57-a1c1-7360774d8de2">
